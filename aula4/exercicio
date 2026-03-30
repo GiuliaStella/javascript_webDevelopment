@@ -1,0 +1,12 @@
+let numero = prompt('digite um numero: ');
+let numeroInt = parseInt(numero);
+let outronumero = prompt('digite outro numero: ');
+let outronumeroInt = parseInt(outronumero);
+
+console.log('rodando no console')
+console.log(`nome que o usuario inseriu: ${numero}`);
+
+alert(`legal, a soma desse dois numeros vai ser: ${numero + outronumero}`);
+
+alert(`legal, o produto dessesw dois numeros vai ser: ${numero * outronumero}`);
+

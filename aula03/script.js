@@ -10,7 +10,7 @@ console.log(`a variavel ${boolean}  tem o tipo ${typeof(boolean)}`);
 var numero = 1;
 console.log(`a variavel ${numero}  tem o tipo ${typeof(numero)}`);
 
-// var; //variavel global ou local - valor inicial pode ser nulo
+// var; //variavel global ou local - valor inicial pode ser nulo(quase nn se ultiliza mais)
 // let; // variavel local de bloco - valor inicial pode ser nulo
 // const; // variavel local de bloco - valor inicial e obrigatorio
 
